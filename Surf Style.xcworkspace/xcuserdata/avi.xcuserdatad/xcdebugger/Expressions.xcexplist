@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LastYear.setSqlDateFilter(offset:):LastYear.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateSqlFilter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StoreSalesTable.setTotalLabel():Store Sales.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tMonthA">
+            </PersistentString>
+            <PersistentString
+               value = "tMontHA">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in StoreSales.getSalesInfo():StoreSales.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ipPort">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in SalesAndProfit.getSqlData():salesAndProfit.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.saleProfit">
+            </PersistentString>
+            <PersistentString
+               value = "self.saleProfit.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VendorSales.getVSalesInfo():VendorSales.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vendorSqlFilter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in StoreSalesTable.getAllStoresData(dataType:dateFilter:):Store Sales.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tMonthA">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StoreSalesTable.getCurrency(number:):Store Sales.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "s.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Category.viewDidLoad():Category.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "groupNum">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StoreSales.setSqlDateFilter():StoreSales.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in StoreSales.getSalesInfo():StoreSales.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.groupNum">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in StyleSales.readSqlStyles():Style.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "s1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in VendorSales.getVSalesInfo():VendorSales.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.items[i].itemPrice">
+            </PersistentString>
+            <PersistentString
+               value = "self.items[i].sales">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in ItemSales.getItemInfo():ItemSales.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "column.value">
+            </PersistentString>
+            <PersistentString
+               value = "sqlStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in SalesAndProfit.getSqlData():salesAndProfit.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "saleProfit">
+            </PersistentString>
+            <PersistentString
+               value = "self.saleProfit.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StoreSales.setSalesByDate(dSelect:btn:isPicker:):StoreSales.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in StyleSales.setSalesData():Style.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nameAndColorS">
+            </PersistentString>
+            <PersistentString
+               value = "self.styleStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StoreSalesTable.excSql(idx:qry:):Store Sales.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "officeDb">
+            </PersistentString>
+            <PersistentString
+               value = "officeIpPort">
+            </PersistentString>
+            <PersistentString
+               value = "officePass">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TopVendors.setSqlDateFilter():TopVendors.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateFormatter.date(from: sDate)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StoreSalesTable.getAllStoresData(dataType:dateFilter:):Store Sales.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "officeDb">
+            </PersistentString>
+            <PersistentString
+               value = "officeIpPort">
+            </PersistentString>
+            <PersistentString
+               value = "officePass">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

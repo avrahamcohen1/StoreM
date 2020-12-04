@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Inventory.prepare(for:sender:):Inventory.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedItemID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Inventory.searchStyleClicked(_:):Inventory.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchStyleText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in GroupItems.readSqlData():GroupItems.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.items[self.itemsNum].styleColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.readSqlDataAndDownloadImgs():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "wareIpPort">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Scanner.prepare(for:sender:):Scanner.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "barCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PrintOrderFinal.initControls():PrintOrderFinal.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedColorName">
+            </PersistentString>
+            <PersistentString
+               value = "selectedDecalId">
+            </PersistentString>
+            <PersistentString
+               value = "selectedGarmentId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewLargeImg.viewDidLoad():ViewLargeImg.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedItemId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Settings.saveFileLocally(fileData:fileName:):Settings.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fileManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Settings.ftpAll():Settings.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "documentsUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.initControls():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "onlineStatus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewLargeImg.sendOrderClick(_:):ViewLargeImg.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "wareOh">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in ItemSearch.searchItem():itemSearch.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "column.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Settings.ftpBtn(_:):Settings.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "itemIdx">
+            </PersistentString>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in Inventory.readSqlData():Inventory.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.itemsNum">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static FileDownloader.loadFileAsync(url:completion:):Settings.swift">
+      </ContextState>
+      <ContextState
+         contextName = "StyleSearch.tableView(_:cellForRowAt:):StyleSearch.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "styleDetails[0].wareOh">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Settings.saveBtn(_:):Settings.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "itemIdx">
+            </PersistentString>
+            <PersistentString
+               value = "urlArr[114]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ItemSearch.viewDidLoad():itemSearch.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedItemID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in ViewLargeImg.setWarehouseOh():ViewLargeImg.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.itemIdTxt.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static FileDownloader.loadFileSync(webUrl:localUrl:completion:):Settings.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in PrintOrder.reardSqlColorDataForStyle():PrintOrder.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "colorsNum">
+            </PersistentString>
+            <PersistentString
+               value = "sqlFiles">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in Settings.clickItemPics(_:):Settings.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Inventory.tableView(_:cellForRowAt:):Inventory.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "items.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in Settings.clickColorPics(_:):Settings.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.sqlStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in StyleSearch.setWarehouseOh():StyleSearch.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+            <PersistentString
+               value = "column.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Settings.getDirPicsNum(dirName:):Settings.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fileURL.path">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PrintOrder.tableView(_:didSelectRowAt:):PrintOrder.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedColorName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Settings.ftpDownloadAndSave(fileName:):Settings.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ftpPassword">
+            </PersistentString>
+            <PersistentString
+               value = "ftpIpAddr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OrdersView.tableView(_:cellForRowAt:):OrdersView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Inventory.tableView(_:didSelectRowAt:):Inventory.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedItemId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ItemView.downloadImg():ItemView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "itemIDStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Inventory.readSqlData():Inventory.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.ipPort">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in PrintOrder.reardSqlColorDataForStyle(vStyle:):PrintOrder.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.garmentColors[i].colorName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in PrintOrder.readSqlGarmentData():PrintOrder.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.garments[i].vendorStyle">
+            </PersistentString>
+            <PersistentString
+               value = "self.garments.count">
+            </PersistentString>
+            <PersistentString
+               value = "column.key">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OrdersView.prepare(for:sender:):OrdersView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedItemId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PrintOrder.collectionView(_:numberOfItemsInSection:):PrintOrder.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "garments.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
